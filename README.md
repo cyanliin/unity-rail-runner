@@ -12,4 +12,4 @@ README
 - 障礙物碰撞重置關卡
 - 改良 swipe 判定與手感
 
-![遊戲截圖](/screenshot.jpg?raw=true "遊戲截圖")
+![遊戲截圖](/screenshot.png?raw=true "遊戲截圖")
